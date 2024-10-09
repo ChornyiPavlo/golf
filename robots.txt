@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pinupaz.ghobby.com.ua/sitemap.xml
-Host: pinupaz.ghobby.com.ua
+Sitemap: http://pinupaz.golfclubhobby.com/sitemap.xml
+Host: pinupaz.golfclubhobby.com
